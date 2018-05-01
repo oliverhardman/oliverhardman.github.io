@@ -857,7 +857,14 @@ textarea::-ms-input-placeholder
     border-radius: 50%;
 }
 
+.logo {
+    width: 60px;
+    height: 60px;
+}
 
+.navbar-brand{
+    padding-top: 0px;
+}
 
 
 
